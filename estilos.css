@@ -1,0 +1,64 @@
+*{
+    font: 1em sans-serif;
+    background-color: lime;
+}
+
+#titulo{
+    text-align: center;
+    font-size: 70px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#introduccion{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-size: 40px;
+}
+
+menu{
+    margin: 20px;
+    padding: 20px;
+    font-size: 40px;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
+
+#bicicleta{
+    text-align: center;
+    font-size: 50px
+}
+
+div{
+    text-align: center;
+    font-size: 40px;
+}
+
+#imagen{
+    margin: 20px;
+    padding: 20px;
+}
+
+#formulario{
+    margin: 20px;
+    padding: 20px;
+    font-size: 40px;
+}
+
+#formulario1{
+    margin: 20px;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    font-size: 30px;
+}
